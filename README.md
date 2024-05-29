@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @RahatBano58
 - 👀 I’m interested in latest technology
-- 🌱 I’m currently learning in "Artifical Intelligence
+- 🌱 I’m currently learning in "Artifical Intelligence"
+- 🌱 I’m currently learning in "Web Development & Mobile App Development" @Saylani Mass I.T Training Program
 - 🖥 How to reach me.( Email, "rahatbano142@gmail.com"
