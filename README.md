@@ -2,5 +2,6 @@
 - 👀 I’m interested in latest technology
 - 🌱 I’m currently learning in "Artifical Intelligence" @Governor Initiative 
 - 🌱 I’m currently learning in "Web Development & Mobile App Development" @Saylani Mass I.T Training Program
-- 🌱 I’m currently learning in "Web & Graphics Designing" @JDC IT Free City
+- 🌱 I’ve completed  "Web & Graphics Designing" @JDC IT Free City
+- 🌱 I'm a Graphic Designer
 - 🖥 How to reach me.( Email, "rahatbano142@gmail.com"
