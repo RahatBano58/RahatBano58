@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/RahatBano58">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bringing+Ideas+to+Life+with+Code;Creating+AI+Apps+that+Inspire;Never+Stop+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Bringing+Ideas+to+Life+with+Code;Creating+AI+Apps+that+Inspire;Never+Stop+Learning" alt="Typing SVG" />
   </a>
 </p>
 
