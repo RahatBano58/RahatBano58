@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
@@ -67,10 +68,10 @@
 
 ### 🎯 What I Do
 
-- 🌐 **Frontend Magic**: Responsive web apps with **Next.js, React & Tailwind CSS**.  
+- 🌐 **Frontend Magic**: Responsive web apps with **Next.js, React, Tailwind CSS & WordPress**.  
 - 🤖 **AI Agents & Tools**: Building **Streamlit apps**, AI Agents with Gemini & OpenAI.  
 - 🎨 **UI/UX & Graphic Design**: Creating clean **designs, branding, social posts**.  
-- 🚀 **Deployment**: Hosting projects on **Vercel, Firebase, GitHub Pages**.  
+- 🚀 **Deployment**: Hosting projects on **Vercel, Firebase, GitHub Pages, Streamlit**.  
 - 📚 **Continuous Learning**: Always exploring **AI, Web Dev & Design trends**.  
 
 ---
