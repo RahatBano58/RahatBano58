@@ -50,8 +50,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RahatBano58&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahatBano58&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-  <img src="https://skillicons.dev/icons?i=nextjs" width="48px" alt="Next.js" />
-
 </div>
 
 ---
