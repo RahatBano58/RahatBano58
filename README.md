@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahat Bano</h1>
-<h3 align="center">A Passionate Front-End Developer and Graphic Designer from Pakistan 🚀</h3>
+<h3 align="center">A Passionate Front-End Developer & Graphic Designer from Pakistan 🚀</h3>
 
 <p align="center">
   <a href="https://github.com/RahatBano58">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=435&lines=Bringing+Ideas+to+Life+with+Code;Creating+AI+Apps+that+Inspire;Never+Stop+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8C00&center=true&vCenter=true&width=500&lines=Bringing+Ideas+to+Life+with+Code;Building+AI+Apps+that+Inspire;Designing+Modern+UI%2FUX;Never+Stop+Learning+%F0%9F%93%9A" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,19 +24,30 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+  
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <!-- Programming -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+
+  <!-- AI & Tools -->
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Artificial Intelligence" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <!-- Design -->
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
+
 </div>
 
 ---
@@ -44,7 +55,7 @@
 ### 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RahatBano58&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=RahatBano58&theme=radical&hide_border=false&border_radius=10" height="220" alt="streak graph"  />
 </div>
 
 <div align="center">
@@ -56,10 +67,11 @@
 
 ### 🎯 What I Do
 
-- 🌐 **Frontend Magic**: Responsive web designs with modern tech like React & Tailwind CSS.
-- 🤖 **AI Agents & Tools**: Building Streamlit apps powered by LLMs like Gemini & OpenAI.
-- 🎨 **UI/UX & Graphic Design**: Designing clean interfaces, visuals, social posts & branding material.
-- 📚 **Continuous Learning**: Always exploring new technologies and creative trends.
+- 🌐 **Frontend Magic**: Responsive web apps with **Next.js, React & Tailwind CSS**.  
+- 🤖 **AI Agents & Tools**: Building **Streamlit apps**, AI Agents with Gemini & OpenAI.  
+- 🎨 **UI/UX & Graphic Design**: Creating clean **designs, branding, social posts**.  
+- 🚀 **Deployment**: Hosting projects on **Vercel, Firebase, GitHub Pages**.  
+- 📚 **Continuous Learning**: Always exploring **AI, Web Dev & Design trends**.  
 
 ---
 
